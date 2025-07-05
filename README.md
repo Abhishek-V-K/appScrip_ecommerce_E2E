@@ -1,11 +1,5 @@
 Here's a comprehensive README.md for Selenium TestNG project, along with explanations of key concepts:
 
-## Built With
-[![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle)](https://gradle.org/)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java)](https://java.com/)
-[![TestNG](https://img.shields.io/badge/-TestNG-E42C2C)](https://testng.org/)
-[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)](https://www.selenium.dev/)
-```markdown
 # Qkart E2E Automation Test Suite
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
